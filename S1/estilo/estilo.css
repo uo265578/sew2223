@@ -9,12 +9,12 @@ body {
     font-family: Tahoma, sans-serif;
     font-size: 1em;
     font-weight: 400;
-    color: #000;
-    background-color: #555218;
+    color: #ffff;
+    background-color: #4D4C4C;
 }
 /* Especifidad = 001 */
 header {
-    background-color: #B8D059;;
+    background-color: #075A0B;
     text-transform: uppercase;
     padding: 6.25em 0em;
 }
@@ -22,7 +22,7 @@ header {
 h2 {
     text-decoration: underline;
     font-family: Arial, Helvetica, serif;
-    background-color: #B8D059;;
+    background-color: #075A0B;;
     /*
         El background color se hereda de body 
     */
@@ -43,7 +43,7 @@ a {
 }
 /* Especifidad = 001 */
 footer {
-    background-color: #B8D059;;
+    background-color: #075A0B;;
 }
 /* Especifidad = 001 */
 h3,
@@ -53,7 +53,7 @@ h6 {
     text-decoration: underline;
     font-family: Arial, Helvetica, serif;
     font-style: italic;
-    background-color: #B8D059;;
+    background-color: #075A0B;;
 }
 /* Especifidad = 011 */
 td:nth-child(1) {
@@ -61,7 +61,7 @@ td:nth-child(1) {
 }
 /* Especifidad = 001 */
 th {
-    background-color: #B8D059;;
+    background-color: #075A0B;;
     font-weight: 700;
 }
 /* Especifidad = 001 */
